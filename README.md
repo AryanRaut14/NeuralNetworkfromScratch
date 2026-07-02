@@ -1,6 +1,6 @@
 # Custom Neural Network from Scratch in PyTorch
 
-A clean, minimalist implementation of a single-layer neural network (Logistic Regression) built entirely from scratch. This project implements the forward pass, Binary Cross-Entropy (BCE) loss, backward pass, and gradient descent optimization manually using raw PyTorch tensors, without relying on high-level frameworks like `torch.nn` or `torch.optim`.
+A clean, minimalist implementation of a single-layer neural network built entirely from scratch. This project implements the forward pass, Binary Cross-Entropy (BCE) loss, backward pass, and gradient descent optimization manually using raw PyTorch tensors, without relying on high-level frameworks like `torch.nn` or `torch.optim`.
 
 
 ## Project Structure
